@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Clinton;William;;
+FN:Bill
+LN:Clinton
+EMAIL;type=INTERNET;type=WORK:bill@whitehouse.gov
+EMAIL;type=INTERNET;type=HOME:billclinton@gmail.com
+PHOTO:https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Bill_Clinton.jpg/440px-Bill_Clinton.jpg 
+TEL;type=WORK;type=VOICE;type=pref:+15551234567
+ADR;type=WORK:;;123 asdf dfd, suite 35;washington;dc;;15931;;
+ADR;type=HOME:;;fsdfsd sd, suite 4;arlington;va;;22201;; 
+REV:20210924T173458 
+END: VCARD
