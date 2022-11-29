@@ -2,7 +2,7 @@
 
 A small utility to generate a vcard v3 (vcf, contact card) compatible string, for exporting contacts to address books.
 
-*This tool only supports a few basic vcard properties at the moment. I may expand its capabilities in the future time allowing.*
+*This tool only supports a few basic vcard properties at the moment. I may expand its capabilities in the future, time allowing.*
 
 ### Usage
 ```js
